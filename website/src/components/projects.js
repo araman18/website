@@ -57,7 +57,6 @@ This was very exciting work, if you are interested check it out below.
             </CardText>
             <CardActions border>
               <Button colored href="https://github.com/araman18/Summer-2020-Research">GitHub</Button>
-              <Button colored href="https://abhijit-raman.surge.sh">Add In Future</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -72,9 +71,6 @@ This was very exciting work, if you are interested check it out below.
               Written in Python, plans for integration with Facebook API, and Zipline for backtesting. Uses TextBlob for sentiment analysis.
               
             </CardText>
-            <CardActions border>
-              <Button colored href="https://github.com/araman18/Personal-Website">GitHub(Add link)</Button>
-            </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
             </CardMenu>

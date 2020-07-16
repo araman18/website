@@ -20,11 +20,6 @@ class About extends Component {
           className="avatar-img"
           />
 
-          <img
-            src="https://media0.giphy.com/media/2Cce6hv9NcFTW/giphy.gif"
-            alt="avatar"
-            className="avatar-img"
-            />
       </div>
     )
   }
