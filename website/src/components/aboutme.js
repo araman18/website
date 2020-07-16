@@ -14,15 +14,6 @@ class About extends Component {
          software solutions to solve fascinating problems since the problem solving aspect of Computer Science is what initially drew me to the field. 
         </p>
 
-        <h2> My Favorite Things </h2>
-        <ListGroup>
-		  <ListGroup.Item>Programming Language - Java</ListGroup.Item>
-		  <ListGroup.Item>Animal - Orca</ListGroup.Item>
-		  <ListGroup.Item>Library - Python Flask</ListGroup.Item>
-		  <ListGroup.Item>Food - Chicken Parmesean</ListGroup.Item>
-		</ListGroup>
-
-
         <img
           src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/University_of_Texas_at_Austin_seal.svg/1200px-University_of_Texas_at_Austin_seal.svg.png"
           alt="avatar"
